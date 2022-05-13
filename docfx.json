@@ -2,7 +2,7 @@
   "build": {
     "globalMetadata": {
       "_disableToc": false,
-      "_disableBreadcrumb": false,
+      "_enableSearch": true,
       "_gitContribute": {
         "branch": "main"
       }
