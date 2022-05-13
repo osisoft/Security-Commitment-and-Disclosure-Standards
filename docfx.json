@@ -2,10 +2,8 @@
   "build": {
     "globalMetadata": {
       "_disableToc": true,
-      "_enableSearch": true,
-      "_gitContribute": {
-        "branch": "main"
-      }
+      "_disableBreadcrumb": true,
+      "_enableSearch": true
     },
     "content": [
       {
