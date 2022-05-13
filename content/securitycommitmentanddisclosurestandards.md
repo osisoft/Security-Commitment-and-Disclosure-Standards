@@ -1,5 +1,5 @@
 ---
-uid: SucurityCommitmentandDisclosureStandards
+uid: SecurityCommitmentandDisclosureStandards
 ---
 
 **Note:** This information will be published as a standalone customer document in the online documentation portal and linked to from release notes topics which relate security vulnerability findings. 

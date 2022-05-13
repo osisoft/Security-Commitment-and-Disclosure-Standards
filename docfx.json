@@ -1,6 +1,7 @@
 {
   "build": {
     "globalMetadata": {
+      "_disableToc": true,
       "_enableSearch": true,
       "_gitContribute": {
         "branch": "main"
