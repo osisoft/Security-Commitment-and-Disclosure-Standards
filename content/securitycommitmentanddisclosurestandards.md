@@ -6,7 +6,7 @@ uid: SecurityCommitmentandDisclosureStandards
 
 ## Our commitment
 
-The PI System often serves as a barrier protecting control system networks and mission-critical infrastructure assets. For this reason, OSIsoft (now part of AVEVA) is committed to delivering a high-quality product, and communicating any security issues addressed in a clear, concise manner.  
+The PI System often serves as a barrier protecting control system networks and mission-critical infrastructure assets. For this reason, we are committed to delivering a high-quality product, and communicating any security issues addressed in a clear, concise manner.  
 
 New releases of products are tested and scored to ensure the highest quality and to provide the most secure versions released to date. We are commitment to improving the PI System is ongoing, and each future version should raise the quality and security bar even further.  
 
