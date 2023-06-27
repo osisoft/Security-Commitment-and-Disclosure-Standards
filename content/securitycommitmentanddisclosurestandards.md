@@ -12,7 +12,7 @@ New releases of products are tested and scored to ensure the highest quality and
 
 ## Vulnerability communication
 
-The practice of publicly disclosing internally discovered security vulnerabilities is consistent with the [Common Industrial Control System Vulnerability Disclosure Framework](https://us-cert.cisa.gov/sites/default/files/ICSJWG-Archive/ICSJWG_Vulnerability_Disclosure_Framework_Final_1.pdf) developed by the [Industrial Control Systems Joint Working Group (ICSJWG)](https://us-cert.cisa.gov/ics/Industrial-Control-Systems-Joint-Working-Group-ICSJWG). Despite the increased risk posed by greater transparency, we are sharing this information to help you make an informed decision about when to upgrade to ensure your PI System has the best available protection.  
+The practice of publicly disclosing internally discovered security vulnerabilities is consistent with the [Common Industrial Control System Vulnerability Disclosure Framework](https://www.first.org/cvss/v2/guide) developed by the [Industrial Control Systems Joint Working Group (ICSJWG)](https://us-cert.cisa.gov/ics/Industrial-Control-Systems-Joint-Working-Group-ICSJWG). Despite the increased risk posed by greater transparency, we are sharing this information to help you make an informed decision about when to upgrade to ensure your PI System has the best available protection.  
 
 For more information, refer to the [Ethical Disclosure Policy](https://www.aveva.com/en/legal/osisoft-terms-and-conditions/osisoft-ethical-disclosure/). To report a security vulnerability, refer to the [Report a Security Vulnerability](https://www.aveva.com/en/legal/osisoft-terms-and-conditions/report-security/) form.  
 
